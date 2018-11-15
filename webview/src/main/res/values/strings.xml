@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WebView</string>
+    <string name="btn_text">点我调用JS代码</string>
+</resources>
